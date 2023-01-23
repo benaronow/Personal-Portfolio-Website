@@ -24,7 +24,7 @@ The website can be found at <a href="https://benaronow.com">https://benaronow.co
 
 <p align="center">
 Load the website: <br/>
-<img src="https://imgur.com/eBKY9dq" height="80%" width="80%"/>
+<img src="https://imgur.com/eBKY9dq.png" height="80%" width="80%"/>
 <img width="956" alt="image" src="https://imgur.com/eBKY9dq">
 <br />
 <br />
