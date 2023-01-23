@@ -6,7 +6,7 @@
 Description
 
 <h2>Visit the Website</h2>
-The website can be found at <a href="https://benaronow.com" target="_blank" rel="noopener noreferrer">https://benaronow.com</a>.
+The website can be found at <a href="https://benaronow.com">https://benaronow.com</a>.
 
 <h2>Languages and Utilities Used</h2>
 
@@ -23,20 +23,24 @@ The website can be found at <a href="https://benaronow.com" target="_blank" rel=
 <h2>Program walk-through:</h2>
 
 <p align="center">
-View of stores: <br/>
-<img width="956" alt="image" src="https://user-images.githubusercontent.com/113547817/207407411-ff5cc3e0-6a9b-4dc2-847c-0e14bf1491af.png">
+Load the website: <br/>
+<img width="956" alt="image" src="https://imgur.com/eBKY9dq">
 <br />
 <br />
-View of reviews:  <br/>
-<img width="949" alt="image" src="https://user-images.githubusercontent.com/113547817/207407528-0782de5b-96e2-4402-a338-b4f562175061.png">
+Buttons in the navigation bar link to corresponding sections of the website:  <br/>
+<img width="949" alt="image" src="https://imgur.com/j2a8guZ">
 <br />
 <br />
-View of employee payments:  <br/>
-<img width="943" alt="image" src="https://user-images.githubusercontent.com/113547817/207407756-7a882c43-c833-4f91-881a-641e9b3efee4.png">
+Hovering the mouse over an element will trigger a visual transition:  <br/>
+<img width="943" alt="image" src="https://imgur.com/VXe7GVA">
 <br />
 <br />
-View of partnership application: <br/>
-<img width="944" alt="image" src="https://user-images.githubusercontent.com/113547817/207407869-5c0067a0-848c-4a06-86dc-cd72372836e4.png">
+Clicking on a button redirect to corresponding webpages: <br/>
+<img width="944" alt="image" src="https://imgur.com/zXM2g9f">
+<br />
+<br />
+Entering information into the contact form and submitting will email me: <br/>
+<img width="944" alt="image" src="https://imgur.com/3a5zHjv">
 </p>
 
 <!--
