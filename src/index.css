@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+:root {
+    --color-background-1: #2e2e2e;
+    --color-background-2: #75715E;
+    --color-primary-1: #AE81FF;
+    --color-primary-2: rgba(77, 181, 255, 1);
+    --color-white: #fff;
+    --color-light: rgba(255, 255, 255, 0.6);
+
+    --transition: all 400ms ease;
+
+    --container-width-large: 75%;
+    --container-width-medium: 86%;
+    --container-width-small: 100%;
+
+    --texture-background: url(../src/assets/Circuitpattern.png);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: var(--color-background-1);
+    background-size: cover;
+    background-image: var(--texture-background);
+    background-size: 300px 300px;
+    color: var(--color-white);
+    line-height: 1.7;
+}
+
+/* ========== GENERAL STYLES ========== */
+.container {
+    width: var(--container-width-large);
+    margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    margin: 8rem 8rem 0;
+    padding: 0 0 4rem;
+}
+
+.section__title {
+    padding: 0.7rem;
+    text-align: center;
+    border-radius: 1rem;
+    margin: 0 auto;
+    height: 4rem;
+    width: 14rem;
+    background: var(--color-background-2);
+    margin-bottom: 3rem;
+}
+
+section > h2,
+section > h5 {
+    text-align: center;
+    color: var(--color-light);
+}
+
+section > h2 {
+    color: var(--color-primary-1);
+    margin-bottom: 3rem;
+}
+
+.text-light {
+    color: var(--color-light);
+}
+
+a {
+    color: var(--color-primary-1);
+    transition: var(--transition);
+}
+
+a:hover {
+    color: var(--color-white);
+}
+
+.btn {
+    width: max-content;
+    display: inline-block;
+    color: var(--color-primary-1);
+    padding: 0.75rem 1.2rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    border: 1px solid var(--color-primary-1);
+    transition: var(--transition);
+}
+
+.btn:hover {
+    background: var(--color-white);
+    color: var(--color-background-1);
+    border-color: transparent;
+}
+
+.btn-primary {
+    background: var(--color-primary-1);
+    color: var(--color-background-1);
+}
+
+img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
+
+/* ========== MEDIA QUERIES (MEDIUM DEVICES) ========== */
+@media screen and (max-width: 1024px) {
+    .container {
+        width: var(--container-width-medium);
+    }
+
+    section {
+        margin: 6rem 2rem 0;
+    }
+}
+
+/* ========== MEDIA QUERIES (SMALL DEVICES) ========== */
+@media screen and (max-width: 600px) {
+    .container {
+        width: var(--container-width-small);
+    }
+
+    section > h2{
+        margin-bottom: 2rem;
+    }
+}

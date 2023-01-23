@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.743ac6b2.css",
+    "main.js": "/static/js/main.44ca003d.js",
+    "static/media/littleme.jpg": "/static/media/littleme.1858359e877760259395.jpg",
+    "static/media/me.png": "/static/media/me.c7de5a0a3b8ab6c7e1ca.png",
+    "static/media/Image.jpg": "/static/media/Image.050b5e2f55d3cfef6090.jpg",
+    "static/media/Maze.jpg": "/static/media/Maze.d95a35278c96c92a96ec.jpg",
+    "static/media/Circuitpattern.png": "/static/media/Circuitpattern.e775671a7f8f5f898b36.png",
+    "static/media/Website.jpg": "/static/media/Website.ba061c6672ed187439cb.jpg",
+    "static/media/header.jpg": "/static/media/header.33e35fcb52e60af43b62.jpg",
+    "static/media/Food.jpg": "/static/media/Food.511ee38a106e3dd814b6.jpg",
+    "static/media/Resumé.pdf": "/static/media/Resumé.8ac9a0eba6c8aca0460d.pdf",
+    "static/media/FloodIt.jpg": "/static/media/FloodIt.1a7fe5f58c5349547ef6.jpg",
+    "static/media/Stocks.png": "/static/media/Stocks.cea710823295ccb9253a.png",
+    "index.html": "/index.html",
+    "main.743ac6b2.css.map": "/static/css/main.743ac6b2.css.map",
+    "main.44ca003d.js.map": "/static/js/main.44ca003d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.743ac6b2.css",
+    "static/js/main.44ca003d.js"
+  ]
+}
