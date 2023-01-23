@@ -25,27 +25,22 @@ The website can be found at <a href="https://benaronow.com">https://benaronow.co
 <p align="center">
 Load the website: <br/>
 <img src="https://imgur.com/eBKY9dq.png" height="80%" width="80%"/>
-<img width="956" alt="image" src="https://imgur.com/eBKY9dq">
 <br />
 <br />
 Buttons in the navigation bar link to corresponding sections of the website:  <br/>
-<img src="https://imgur.com/VIVuwLt.png" height="80%" width="80%"/>
-<img width="949" alt="image" src="https://imgur.com/j2a8guZ">
+<img src="https://imgur.com/j2a8guZ.png" height="80%" width="80%"/>
 <br />
 <br />
 Hovering the mouse over an element will trigger a visual transition:  <br/>
-<img src="https://imgur.com/VIVuwLt.png" height="80%" width="80%"/>
-<img width="943" alt="image" src="https://imgur.com/VXe7GVA">
+<img src="https://imgur.com/VXe7GVA.png" height="80%" width="80%"/>
 <br />
 <br />
 Clicking on a button redirect to corresponding webpages: <br/>
-<img src="https://imgur.com/VIVuwLt.png" height="80%" width="80%"/>
-<img width="944" alt="image" src="https://imgur.com/zXM2g9f">
+<img src="https://imgur.com/zXM2g9f.png" height="80%" width="80%"/>
 <br />
 <br />
 Entering information into the contact form and submitting will email me: <br/>
-<img src="https://imgur.com/VIVuwLt.png" height="80%" width="80%"/>
-<img width="944" alt="image" src="https://imgur.com/3a5zHjv">
+<img src="https://imgur.com/3a5zHjv.png" height="80%" width="80%"/>
 </p>
 
 <!--
