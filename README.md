@@ -6,7 +6,7 @@
 Description
 
 <h2>Visit the Website</h2>
-The website can be found at <a href="https://benaronow.com" target="_blank" rel="noreferrer">https://benaronow.com</a>.
+The website can be found at <a href="https://benaronow.com" target="_blank" rel="noopener noreferrer">https://benaronow.com</a>.
 
 <h2>Languages and Utilities Used</h2>
 
