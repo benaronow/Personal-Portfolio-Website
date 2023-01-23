@@ -3,7 +3,9 @@
  ### [Video Demonstration](https://youtu.be/2HvzjrypxU4)
 
 <h2>Description</h2>
-Description
+This website was made using ReactJS and serves as a primary portfolio for my work and accomplishments,
+as well as providing ways to get in contact with me. It utilizes a useState Hook for the navigation bar,
+and the current build is deployed on a server hosted by Hostinger.
 
 <h2>Visit the Website</h2>
 The website can be found at <a href="https://benaronow.com">https://benaronow.com</a>.
