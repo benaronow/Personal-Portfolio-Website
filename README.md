@@ -1,4 +1,4 @@
-<h1>Personal-Portfolio-Website</h1>
+<h1>Personal Portfolio Website</h1>
 
  ### [Video Demonstration](https://youtu.be/VOYrBWvE3RQ)
 
