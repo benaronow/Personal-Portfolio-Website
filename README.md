@@ -10,7 +10,7 @@ available at
 and was probably very poorly constructed. Viewer discretion is advised.
 
 <h2>Visit the Website</h2>
-The website can be found at <a href="https://benaronow.com">https://benaronow.com</a>.
+The website can be found at <s><a href="https://benaronow.com">https://benaronow.com</a></s>.
 
 <h2>Languages and Utilities Used</h2>
 
