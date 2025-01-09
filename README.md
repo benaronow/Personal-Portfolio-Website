@@ -3,9 +3,11 @@
  ### [Video Demonstration](https://youtu.be/VOYrBWvE3RQ)
 
 <h2>Description</h2>
-This website was made using ReactJS and serves as a primary portfolio for my work and accomplishments,
-as well as providing ways to get in contact with me. It utilizes a useState Hook for the navigation bar,
-and the current build is deployed on a server hosted by Hostinger.
+Update as of 2025: This website was also made when I did not know what React was, and it is
+probably very poorly constructed. It is no longer up  on the original domain but should be
+available at
+<a href="https://benaronow-v1.netlify.app" target="_blank" rel="noreferrer">https://benaronow-v1.netlify.app</a>
+and was probably very poorly constructed. Viewer discretion is advised.
 
 <h2>Visit the Website</h2>
 The website can be found at <a href="https://benaronow.com">https://benaronow.com</a>.
